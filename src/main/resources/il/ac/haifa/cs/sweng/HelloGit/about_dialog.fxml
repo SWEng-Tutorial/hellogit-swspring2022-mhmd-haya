@@ -29,7 +29,7 @@
 	</Label>
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Hi i am Haya !"
+		   text="Hi i am Haya !!!"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
